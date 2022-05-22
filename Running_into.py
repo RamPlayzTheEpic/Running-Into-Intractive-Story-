@@ -1,0 +1,7 @@
+print("woah")
+name = input("hi what is your name \n you say: ")
+print("hi " + name + ". Catch you later.")
+print("1 hour later...")
+print("hi " + name + ". I think we should be friends! \n you say: sure but whats your name. \n oh my name is pybot. Here is my phone number. *pybot gives you his phone number*.")
+print("you say: Here is my phone number. *you give pybot your phone number*")
+print("THE STORY ENDS! Thanks for playing!")
